@@ -21,9 +21,3 @@ Gồm:
 header_banner.dart
 profile_card.dart
 stat_box.dart
-Chạy chương trình
-
-Di chuyển vào thư mục bài muốn chạy, sau đó sử dụng:
-
-flutter pub get
-flutter run
