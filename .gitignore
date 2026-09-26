@@ -1,0 +1,12 @@
+**/build/
+**/.dart_tool/
+**/.idea/
+**/*.iml
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/android/.gradle/
+**/android/local.properties
+**/.vscode/
+.DS_Store
+Thumbs.db
